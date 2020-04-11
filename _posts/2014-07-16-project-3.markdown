@@ -1,0 +1,12 @@
+---
+title: Arts and Crafts
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+
+description: <div>From a young age, arts and crafts was always something I found myself naturally drawn to. Whether it was origami, fashion design, or woodworking, having a creative project on hand is always a great way for me to wind down and destress. <br><br>From making and tailoring my own prom dress to designing and saddle stitching my own handbags, I always find myself asking if I can make whatever I want first. As a slight perfecionist, I spend time to research each craft and hence every successful DIY project gives me a great sense of accomplishment. <br><br>Lately, you can find me working on a custom watch strap and minimilastic leather wallets. My ultimate dream would be to have a majority of the things I use designed and crafted by me!</div>
+
+---

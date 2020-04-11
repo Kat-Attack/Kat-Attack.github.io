@@ -1,0 +1,11 @@
+---
+title: Teaching
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+
+description: <div>Perhaps growing up with a much younger brother has inspired my love of teaching, but both learning and teaching are essential parts of my life. As soon as I was of legal age, I signed up to be a camp counselor where I will spend countless hours within the next three years surrounded by curious children. <br><br>Throughout my highschool career, I was also a tutor to two lovely kids through the York Region Learning Disabilities Association (LDAYR). I helped them decipher math, science, and even language and art courses. One of them recently wrote to me saying how effective the skills from our lessons were and how they applied it on diciphering university level math.<br><br> My desire to help others learn translated into the work place as I held workshops regarding various technical topics. From how to properly design Restful APIs to 101 on blockchain solutions, I've spoken to as many as 250 colleagues on topics that spoke out to me the most. <br><br>Outside of work, I've been busy teaching python to grades 6 to 10 using fun and modern methods. Keeping their interest was definitely a fun challenge for me as kids learn best when relating to something similiar such as minecraft or even social memes.</div>
+---
