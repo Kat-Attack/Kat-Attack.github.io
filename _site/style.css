@@ -714,7 +714,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: #2171B3; /* Fallback when no plugin support */
     background: rgba(, .9);
 }
 
@@ -799,11 +799,17 @@ section h2.contact-heading {
 }
 
 section h3.contact-subheading {
-    margin-bottom: 75px;
+    margin-bottom: 20px;
     text-transform: none;
     font-family: ;
     font-size: 25px;
     font-style: italic;
     font-weight: 400;
     color: #fff
+}
+
+section h4.contact-subheading2 {
+    color: #fff;
+    margin-bottom: 75px;
+    font-weight: 400;
 }
